@@ -1,0 +1,45 @@
+[
+    {
+        "title":"HTML",
+        "imagesrc":"skills/html.png"
+    },
+    {
+        "title":"CSS",
+        "imagesrc":"skills/css.png"
+    },
+    {
+        "title":"JAVASCRIPT",
+        "imagesrc":"skills/javascript.png"
+    },
+    {
+        "title":"REACT",
+        "imagesrc":"skills/react.png"
+    },
+    {
+        "title":"NODE",
+        "imagesrc":"skills/node.png"
+    },
+    
+    {
+        "title":"POSTMAN",
+        "imagesrc":"skills/postman.png"
+    },
+    {
+        "title":"boostrap",
+        "imagesrc":"skills/bootstrap.png"
+    },
+    {
+        "title":"tailwindcss",
+        "imagesrc":"skills/tailwindcss.png"
+    },
+    {
+        "title":"Git",
+        "imagesrc":"skills/git.png"
+    },
+    {
+        "title":"mongo DB",
+        "imagesrc":"skills/mongo db.png"
+    }
+    
+    
+]
